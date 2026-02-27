@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib[bcrypt]
+python-multipart
+jinja2
+openai
+langchain
+faiss-cpu
+python-docx
+pypdf
